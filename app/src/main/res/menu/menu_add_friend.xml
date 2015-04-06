@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AddFriendActivity">
+<item
+android:id="@+id/add_friend_menu_save"
+app:showAsAction="ifRoom"
+android:title="@string/add_friend_save"
+android:icon="@android:drawable/ic_menu_save"/>
+    </menu>
